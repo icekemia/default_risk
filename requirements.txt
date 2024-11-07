@@ -1,0 +1,13 @@
+Flask
+joblib
+gunicorn
+numpy
+pandas
+scipy
+scikit-learn
+optuna
+lightgbm
+Werkzeug
+gunicorn
+seaborn
+matplotlib

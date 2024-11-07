@@ -1,0 +1,4 @@
+/app/__pycache__
+/app/helpers/__pycache__
+/.mypy_cache
+/.conda
